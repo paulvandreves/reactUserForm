@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.errors{
+  color:red; 
+}
+
+.invalid{
+  border:2px solid #ff0000 !important;
+  }
+
+leftDiv{
+  width: 50%;
+  float: left;
+}
